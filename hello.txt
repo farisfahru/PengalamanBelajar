@@ -1,1 +1,2 @@
 Hello Dunia
+latihan squashing merge
